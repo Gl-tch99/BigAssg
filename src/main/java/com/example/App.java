@@ -3,6 +3,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println("hello.");
         boolean result = checkEvenorOdd(23);
         System.out.println(result);
     }
